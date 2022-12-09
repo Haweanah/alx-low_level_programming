@@ -5,7 +5,7 @@
  * main - prints the alphabet in lower cas
  * followed by a new line except q and e
  * Return: Always 0
-*/
+ */
 int main(void)
 {
 	char la;
@@ -18,5 +18,4 @@ int main(void)
 
 	putchar('\n');
 
-	return (0);
-}
+	return (0);}
