@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - prints alpha in lower and upper case
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (success
  */
 
 int main(void)
@@ -12,17 +12,17 @@ int main(void)
 	char d;
 
 	c = 'a';
-	d = 'A';
+	d = 'A'
 	while
 		(c <= 'z') {
 			putchar(c);
-			c++;
+			c++
 		}
 	while
 		(d <= 'Z') {
 			putchar(d);
-			d++;
+			d++
 		}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
