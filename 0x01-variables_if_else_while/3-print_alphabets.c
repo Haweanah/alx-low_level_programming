@@ -2,8 +2,8 @@
 /**
  * main- main block
  * Description: print the alphabet in lower case
- * and in upper case followed by a new line
- * Return: o
+ * and in the upper case followed by a new line
+ * Return: 0
  */
 int main(void)
 {
@@ -15,7 +15,7 @@ int main(void)
 		c++;
 	}
 
-	c + 'A';
+	c = 'A';
 
 	while (c <= 'Z')
 	{
