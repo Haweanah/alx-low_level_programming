@@ -3,7 +3,7 @@
  * main- main block
  * Description: print the alphabet in lower case
  * and in upper case followed by a new line
- * Retuen: o
+ * Return: 0
  */
 int main(void)
 {
@@ -15,7 +15,7 @@ int main(void)
 		c++;
 	}
 
-	c + 'A'
+	c + 'A';
 
 	while (c <= 'Z')
 	{
