@@ -2,9 +2,8 @@
 
 
 /**
- * main - prints the alphabet in lower cas
- * followed by a new line except q and e
- * Return: Always 0
+ * main - Entry point
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
