@@ -2,9 +2,6 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: write a program that
- * prints all possibble different combination of
- * two digits
  * Return: Always 0
  */
 int main(void)
