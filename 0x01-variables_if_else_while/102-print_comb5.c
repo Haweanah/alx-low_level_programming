@@ -16,13 +16,13 @@ int main(void)
 	int f_d2;
 	int l_d2;
 
-	while (c <= 98)
+	while(c <= 98)
 	{
 		f_d = (c / 10 + '0');
 		l_d = (c % 10 + '0');
 		c2 = 0;
 
-		while (c2 <= 99)
+		while(c2 <= 99)
 		{
 			f_d2 = (c2 / 10 + '0');
 			l_d2 = (c2 % 10 + '0');
