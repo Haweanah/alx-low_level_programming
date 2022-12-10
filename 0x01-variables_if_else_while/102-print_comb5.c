@@ -39,9 +39,9 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			c2++
+			c2++;
 		}
-		d2++
+		d2++;
 	}
 
 	purchar('\n');
