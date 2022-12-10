@@ -38,11 +38,13 @@ int main(void)
 					putchar(',');
 					putchar(' ');
 				}
+				c2++
 			}
-			c2++;
+			c++;
 		}
-		c++;
+		d2++;
 	}
+	d++
 
 	putchar('\n');
 	return (0);
