@@ -41,7 +41,7 @@ int main(void)
 			}
 			c2++;
 		}
-		d2++;
+		c++;
 	}
 
 	purchar('\n');
