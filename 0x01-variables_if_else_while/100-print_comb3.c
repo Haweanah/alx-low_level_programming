@@ -2,7 +2,8 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: Write a program that prints all possible combinations of two digits
+ * Description: Write a program that prints
+ * all possible combinations of two digits
  * Return: 0
  */
 int main(void)
@@ -26,9 +27,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-
 			c++;
-
 		}
 			d++;
 	}
