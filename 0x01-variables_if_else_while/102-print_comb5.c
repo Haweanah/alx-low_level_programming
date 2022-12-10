@@ -44,6 +44,6 @@ int main(void)
 		c++;
 	}
 
-	purchar('\n');
+	putchar('\n');
 	return (0);
 }
