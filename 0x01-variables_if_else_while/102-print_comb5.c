@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	int c = '0';
+	int c = 0;
 	int f_d;
 	int l_d;
 
@@ -20,7 +20,7 @@ int main(void)
 	{
 		f_d = (c / 10 + '0');
 		l_d = (c % 10 + '0');
-		c2 = '0';
+		c2 = 0;
 
 		while (c2 <= 99)
 		{
@@ -40,13 +40,11 @@ int main(void)
 					putchar(',');
 					putchar(' ');
 				}
-		
 			}
 			c2++;
 		}
 		c++;
 	}
-
 	putchar('\n');
 	return (0);
 }
