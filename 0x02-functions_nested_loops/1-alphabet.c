@@ -1,9 +1,9 @@
-#iunclude "main.h"
+#include "main.h"
 
 /**
  * print_alphabet - prints the alpha in lowercase
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char la;
 
