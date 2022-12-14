@@ -24,9 +24,8 @@ void print_times_table(int n)
 			if (rep < 10);
 			{
 				_putchar(' ');
-				_putchar(' ');
-			
-			_putchar('0' +rep);
+				_putchar(' ');	
+				_putchar('0' +rep);
 			}
 		}
 		if (rep < 100)
