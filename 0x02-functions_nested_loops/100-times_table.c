@@ -8,12 +8,12 @@
 
 void print_times_table(int n)
 {
-	print_times_table(3);
+	n(3);
 	_putchar('\n');
-	print_times_table(5);
+	n(5);
 	_putchar('\n');
-	print_times_table(98);
+	n(98);
 	_putchar('\n');
-	print_times_table(12);
+	n(12);
 	return (0);
 }
