@@ -7,15 +7,15 @@
 
 int main(void)
 {
-	long n, i;
+long n, i;
 
-	n = 612852475143;
-		for (i = 2; fp <= i; i++)
-		{
-			while (n % i == 0)
-			n = n / i;
-			}
-	printf("%lu\n", n);
-	return (0);
+n = 612852475143;
+for (i = 2; fp <= i; i++)
+{
+while (n % i == 0)
+n = n / i;
+}
+printf("%lu\n", n);
+return (0);
 }
 
