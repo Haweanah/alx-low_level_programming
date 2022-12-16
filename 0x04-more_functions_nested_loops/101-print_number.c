@@ -6,7 +6,6 @@
  *
  * Return:void
  */
-
 void print_number(int n)
 {
 unsigned int m;
@@ -21,6 +20,6 @@ else
 m = n;
 }
 if (m < 10 != 0)
-print_number(n /10);
+print_number(n / 10);
 _putchar((m % 10) + '0');
 }
