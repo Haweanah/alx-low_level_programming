@@ -38,7 +38,6 @@ printf("%i ", i);
 i++;
 
 }
-printf('\n');
+printf("\n");
 return (0);
-
 }
