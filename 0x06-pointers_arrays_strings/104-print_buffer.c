@@ -4,8 +4,7 @@
 /**
  * print_buffer - prints buffer
  * @b: buffer
- * @size: size
- * Return: void
+ * @size: size * Return: void
  */
 void print_buffer(char *b, int size)
 {
@@ -34,7 +33,7 @@ if (i % 2)
 printf(" ");
 }
 }
-for (i = 0; i < j; i++
+for (i = 0; i < j; i++)
 {
 int c = *(b + o + i);
 
