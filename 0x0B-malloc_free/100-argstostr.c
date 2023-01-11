@@ -37,6 +37,5 @@ if (str[r] == '\0')
 {
 str[r++] = '\n';
 }
-}
 return (str);
 }
